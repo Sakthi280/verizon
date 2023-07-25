@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 I am master
 master
-=======
-I am selenium
 selenium
->>>>>>> selenium
+keeping master ahead
 
